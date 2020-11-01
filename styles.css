@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: linear-gradient(
+    132deg,
+    rgba(0, 105, 195, 1) 05%,
+    rgba(50, 50, 50, 1) 95%
+  );
+  height: 100%;
+  width: 80%;
+  margin-left: 10%;
+  padding-top: 5%;
+  background-color: rgb(224, 224, 224);
+  padding-bottom: 100px;
+  color: white;
+  font-family: sans-serif;
+}
+
+.heading {
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+  font-size: 4em;
+  color: black;
+}
+
+p {
+  color: black;
+  font-size: 2em;
+}
+
+.process-btn {
+  margin-top: 5%;
+  margin-left: 20%;
+  width: 60%;
+  border-radius: 10px;
+  height: 50px;
+  background-color: white;
+  font-size: 1em;
+  color: #4f4f4f;
+  border: none;
+}
+
+.process-btn:hover {
+  cursor: pointer;
+  background-color: lightgray;
+}
+
+.symbols-img {
+  margin-left: 25%;
+  width: 50%;
+}
