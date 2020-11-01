@@ -4,7 +4,7 @@ A simple app that utilizes AI to identify your laundry tag symbol and give you i
 
 ## Steps to completion
 
-- [ ] Build placeholder frontend for jokes.
+- [x] Build placeholder frontend for jokes.
 - [ ] Build a webscraper with Selenium to gather images of each type of symbol.
 - [ ] Manually ensure all images are valid and label them.
 - [ ] Train a Convolutional Neral Network to properly localize and classify laundry symbols.
